@@ -1,0 +1,49 @@
+_repo: The-Islands-of-MagicLegends-Folk-and-Fairy-Tales-from-the-Azores_34431
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brock, Emma L. (Emma Lillian)
+    aliases:
+    - Brock, E. L.
+    - Brock, Emma Lillian
+    birthdate: 1886
+    deathdate: 1974
+    gutenberg_agent_id: '38918'
+    url: http://www.gutenberg.org/2009/agents/38918
+covers:
+- cover_type: archival
+  image_path: 34431-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Eells, Elsie Spicer
+    birthdate: 1880
+    gutenberg_agent_id: '24854'
+    url: http://www.gutenberg.org/2009/agents/24854
+description: A collection of folk and fairy tales and legends from the Azores retold
+  for children.
+gutenberg_issued: '2011-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Azores'
+- !lcc 'PZ'
+- !lcsh 'Folklore -- Azores'
+tableOfContents: Princess Bluegreen of the seven cities -- The islands of flowers
+  -- Why dogs sniff -- Longstaff, Pinepuller and Rockheaver -- The table, the sifter
+  and the pinchers -- Linda Branca and her mask -- Fresh figs -- Peter-of-the-pigs
+  -- The princess who lost her rings -- The master of magic -- St. Anthony's godchild
+  -- Trouble when one's young -- The little maid who was wise -- Manoel Littlebean
+  -- The necklace of pearls -- The daughter of the king of Naples -- Maria-of-the-forest
+  -- The seven enchanted princes -- The listening king -- José the Beast Slayer --
+  The princess of the lost island -- Why the Alvéloa bird received a blessing -- Why
+  the Codorniz bird received a curse -- Outside the door like the mother of St. Peter
+  -- Why the owl flies at night -- The laborer and his master -- 'Tis faith which
+  saves -- St. Brendan's island -- The silent cavalier -- The enchanted palace --
+  The friend of the Devil -- The miller's cloak -- The magic mouthful -- The messengers.
+title: 'The Islands of Magic: Legends, Folk and Fairy Tales from the Azores'
+url: http://www.gutenberg.org/ebooks/34431
