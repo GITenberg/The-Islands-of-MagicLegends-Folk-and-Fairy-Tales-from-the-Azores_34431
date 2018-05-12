@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24854
 description: A collection of folk and fairy tales and legends from the Azores retold
   for children.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34431#The-Islands-of-MagicLegends-Folk-and-Fairy-Tales-from-the-Azores
 gutenberg_issued: '2011-09-28'
 gutenberg_type: Text
 identifiers:
